@@ -22,14 +22,7 @@ I’m a B.Tech CSE student at Bennett University with a strong foundation in cor
 
 ---
 
-## 📌 Selected Projects
-**SentinelRefund**  
-AI-driven B2B fraud prevention system developed during Walmart Sparkathon, focused on detecting refund abuse and improving trust through intelligent monitoring.
 
-**SheVitalityLife**  
-Women’s health platform built during Smart India Hackathon to address PCOD/PCOS using AI-powered insights and integrated health tools.
-
----
 
 ## 🏆 Highlights
 - Oracle Cloud Infrastructure 2025 Certified **Generative AI Professional**  
